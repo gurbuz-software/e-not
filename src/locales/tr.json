@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Not Uygulaması",
+    "welcome": "Hoş Geldiniz"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "loginTitle": "Hesabınıza Giriş Yapın",
+    "registerTitle": "Yeni Hesap Oluşturun",
+    "loginSubtitle": "Notlarınıza erişmek için giriş yapın",
+    "registerSubtitle": "Hemen başlamak için hesap oluşturun",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "noAccount": "Hesabınız yok mu?",
+    "loginSuccess": "Başarıyla giriş yapıldı!",
+    "registerSuccess": "Hesap başarıyla oluşturuldu!",
+    "loginError": "Giriş yaparken hata oluştu",
+    "registerError": "Kayıt olurken hata oluştu",
+    "passwordMismatch": "Şifreler eşleşmiyor",
+    "emailRequired": "E-posta gereklidir",
+    "passwordRequired": "Şifre gereklidir",
+    "logout": "Çıkış Yap",
+    "emailVerificationSent": "E-posta adresinize doğrulama kodu gönderildi!",
+    "checkEmailVerification": "Lütfen e-posta adresinizi kontrol ederek hesabınızı doğrulayın."
+  },
+  "theme": {
+    "light": "Açık Tema",
+    "dark": "Koyu Tema",
+    "toggle": "Temayı Değiştir"
+  },
+  "language": {
+    "turkish": "Türkçe",
+    "english": "English",
+    "change": "Dil Değiştir"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "notes": "Notlar",
+    "profile": "Profil"
+  },
+  "loading": {
+    "text": "Yükleniyor..."
+  },
+  "notes": {
+    "empty": "Henüz notunuz yok.",
+    "note": "Not",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "addFavorite": "Favorilere Ekle",
+    "removeFavorite": "Favorilerden Çıkar",
+    "emptyNote": "Henüz içerik yok...",
+    "title": "Başlık",
+    "content": "İçerik",
+    "titlePlaceholder": "Not başlığını buraya yazın...",
+    "contentPlaceholder": "Not içeriğinizi buraya yazın..."
+  },
+  "dates": {
+    "today": "Bugün",
+    "yesterday": "Dün",
+    "daysAgo": "{count} gün önce"
+  },
+  "dashboard": {
+    "title": "Not Panem",
+    "subtitle": "Notlarınızı oluşturun, düzenleyin ve organize edin.",
+    "search": "Notlarda ara...",
+    "newNote": "Yeni Not",
+    "totalNotes": "Toplam Not",
+    "favoriteNotes": "Favori Notlar",
+    "folders": "Klasörler",
+    "recentNotes": "Son Notlar",
+    "allNotes": "Tüm Notlar",
+    "searchResults": "Arama Sonuçları",
+    "createNote": "İlk Notunuzu Oluşturun",
+    "createFirstNote": "Hemen yeni bir not oluşturun ve düşüncelerinizi kaydetmeye başlayın.",
+    "noSearchResults": "Arama sonucu bulunamadı",
+    "tryDifferentSearch": "Farklı anahtar kelimeler deneyin.",
+    "deleteNote": "Not Sil",
+    "deleteConfirmation": "Bu notu silmek istediğinizden emin misiniz? Bu işlem geri alınamaz."
+  },
+  "common": {
+    "cancel": "İptal",
+    "delete": "Sil",
+    "save": "Kaydet",
+    "saving": "Kaydediliyor...",
+    "edit": "Düzenle"
+  }
+}

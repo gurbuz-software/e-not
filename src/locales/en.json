@@ -1,0 +1,90 @@
+{
+  "app": {
+    "title": "Notes App",
+    "welcome": "Welcome"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginTitle": "Sign in to your account",
+    "registerTitle": "Create new account",
+    "loginSubtitle": "Sign in to access your notes",
+    "registerSubtitle": "Create an account to get started",
+    "hasAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "loginSuccess": "Successfully logged in!",
+    "registerSuccess": "Account created successfully!",
+    "loginError": "Error occurred during login",
+    "registerError": "Error occurred during registration",
+    "passwordMismatch": "Passwords don't match",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "logout": "Logout",
+    "emailVerificationSent": "Verification code sent to your email!",
+    "checkEmailVerification": "Please check your email and verify your account."
+  },
+  "theme": {
+    "light": "Light Theme",
+    "dark": "Dark Theme",
+    "toggle": "Toggle Theme"
+  },
+  "language": {
+    "turkish": "Türkçe",
+    "english": "English",
+    "change": "Change Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "notes": "Notes",
+    "profile": "Profile"
+  },
+  "loading": {
+    "text": "Loading..."
+  },
+  "notes": {
+    "empty": "No notes yet.",
+    "note": "Note",
+    "edit": "Edit",
+    "delete": "Delete",
+    "addFavorite": "Add to Favorites",
+    "removeFavorite": "Remove from Favorites",
+    "emptyNote": "No content yet...",
+    "title": "Title",
+    "content": "Content",
+    "titlePlaceholder": "Enter note title here...",
+    "contentPlaceholder": "Write your note content here..."
+  },
+  "dates": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "daysAgo": "{count} days ago"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "subtitle": "Create, edit and organize your notes.",
+    "search": "Search notes...",
+    "newNote": "New Note",
+    "totalNotes": "Total Notes",
+    "favoriteNotes": "Favorite Notes",
+    "folders": "Folders",
+    "recentNotes": "Recent Notes",
+    "allNotes": "All Notes",
+    "searchResults": "Search Results",
+    "createNote": "Create Your First Note",
+    "createFirstNote": "Get started by creating a new note and capture your thoughts.",
+    "noSearchResults": "No search results found",
+    "tryDifferentSearch": "Try different keywords.",
+    "deleteNote": "Delete Note",
+    "deleteConfirmation": "Are you sure you want to delete this note? This action cannot be undone."
+  },
+  "common": {
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "save": "Save",
+    "edit": "Edit",
+    "saving": "Saving..."
+  }
+}
